@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
 
   const targetDay = 16;
-  const targetMonthIndex = 3; // December
+  const targetMonthIndex = 2; // December
   const targetYear = 2025;
   const birthYear = 2006;
 
